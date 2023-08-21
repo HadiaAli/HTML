@@ -9,6 +9,6 @@ The website is built using HTML, CSS, and JavaScript. The front end is built usi
 
 ## Instructions
 
-To run the website locally, clone the repository and install the dependencies. Then, run the following commands:
+To run the website locally, clone the repository and install the dependencies. And then run on your browser. You can scrool throught the website and click on the navagation bar and explore the website.  
 
-```
+
